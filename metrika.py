@@ -14,9 +14,8 @@ auth_url_data = {
 
 print('?'.join((AUTH_URL, urlencode(auth_url_data))))
 
-# FILL ME
-TOKEN = ''
-COUNTER_ID = ''
+TOKEN = '' # FILL ME
+COUNTER_ID = '47576830'
 
 
 class YandexMetrikaHeaders:
